@@ -1,7 +1,5 @@
 <img src="./img/logo.png" alt="WPGraphQL Logo" width="96" height="96" style="max-width: 96px; max-height: 96px;">
-
 # WPGraphQL
-
 WPGraphQL is a free, open-source WordPress plugin that provides an extendable GraphQL schema and API for any WordPress site.
 
 Below are some links to help you get started with WPGraphQL
